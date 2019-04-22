@@ -1,0 +1,349 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <title>Wuming a Hotel Template</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900|Rubik:300,400,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+
+    <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    
+    <header role="banner">
+     
+      <nav class="navbar navbar-expand-md navbar-dark bg-light">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">wumingHotel</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
+            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.html">主页</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="房间.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">房间</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="rooms.html">房间介绍</a>
+                  <a class="dropdown-item" href="rooms.html">总统套房</a>
+                  <a class="dropdown-item" href="rooms.html">单人房</a>
+                  <a class="dropdown-item" href="rooms.html">双人房</a>
+                </div>
+
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="展示.html">展示</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="关于.html">关于</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="联系我们.html">联系我们</a>
+              </li>
+               <li class="nav-item ">
+                <a class="nav-link" href="现在预订.html"><span>现在预订</span></a>
+              </li>
+              <li class="nav-item">
+              <a class="nav-link" href="F:\Learning\大三\大三下\网络数据库开发\大作业\酒店管理系统\后台\登录.html">管理登录</a>
+				</li>
+            </ul>
+            
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- END header -->
+
+    <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/big_image_1.jpg);">
+      <div class="container">
+        <div class="row align-items-center site-hero-inner justify-content-center">
+          <div class="col-md-12 text-center">
+
+            <div class="mb-5 element-animate">
+              <h1>每日新闻</h1>
+              <p>阅读关于酒店的每日最新活动以及最新消息.</p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- END section -->
+
+    <section class="site-section py-lg">
+      <div class="container">
+        
+        <div class="row blog-entries">
+          <div class="col-md-12 col-lg-8 main-content">
+            <h1 class="mb-4">There’s a Cool New Way for Men to Wear Socks and Sandals</h1>
+            <div class="post-meta">
+                        <span class="category">精读外刊</span>
+                        <span class="mr-2">March 15, 2018 </span> &bullet;
+                        <span class="ml-2"><span class="fa fa-comments"></span> 3</span>
+                      </div>
+            <div class="post-content-body">
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium nam quas inventore, ut iure iste modi eos adipisci ad ea itaque labore earum autem nobis et numquam, minima eius. Nam eius, non unde ut aut sunt eveniet rerum repellendus porro.</p>
+            <p>Sint ab voluptates itaque, ipsum porro qui obcaecati cumque quas sit vel. Voluptatum provident id quis quo. Eveniet maiores perferendis officia veniam est laborum, expedita fuga doloribus natus repellendus dolorem ab similique sint eius cupiditate necessitatibus, magni nesciunt ex eos.</p>
+            <p>Quis eius aspernatur, eaque culpa cumque reiciendis, nobis at earum assumenda similique ut? Aperiam vel aut, ex exercitationem eos consequuntur eaque culpa totam, deserunt, aspernatur quae eveniet hic provident ullam tempora error repudiandae sapiente illum rerum itaque voluptatem. Commodi, sequi.</p>
+            <div class="row mb-5">
+              <div class="col-md-12 mb-4 element-animate">
+                <img src="images/img_1.jpg" alt="Image placeholder" class="img-fluid">
+              </div>
+              <div class="col-md-6 mb-4 element-animate">
+                <img src="images/img_2.jpg" alt="Image placeholder" class="img-fluid">
+              </div>
+              <div class="col-md-6 mb-4 element-animate">
+                <img src="images/img_3.jpg" alt="Image placeholder" class="img-fluid">
+              </div>
+            </div>
+            <p>Quibusdam autem, quas molestias recusandae aperiam molestiae modi qui ipsam vel. Placeat tenetur veritatis tempore quos impedit dicta, error autem, quae sint inventore ipsa quidem. Quo voluptate quisquam reiciendis, minus, animi minima eum officia doloremque repellat eos, odio doloribus cum.</p>
+            <p>Temporibus quo dolore veritatis doloribus delectus dolores perspiciatis recusandae ducimus, nisi quod, incidunt ut quaerat, magnam cupiditate. Aut, laboriosam magnam, nobis dolore fugiat impedit necessitatibus nisi cupiditate, quas repellat itaque molestias sit libero voluptas eveniet omnis illo ullam dolorem minima.</p>
+            <p>Porro amet accusantium libero fugit totam, deserunt ipsa, dolorem, vero expedita illo similique saepe nisi deleniti. Cumque, laboriosam, porro! Facilis voluptatem sequi nulla quidem, provident eius quos pariatur maxime sapiente illo nostrum quibusdam aliquid fugiat! Earum quod fuga id officia.</p>
+            <p>Illo magnam at dolore ad enim fugiat ut maxime facilis autem, nulla cumque quis commodi eos nisi unde soluta, ipsa eius aspernatur sint atque! Nihil, eveniet illo ea, mollitia fuga accusamus dolor dolorem perspiciatis rerum hic, consectetur error rem aspernatur!</p>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus magni explicabo id molestiae, minima quas assumenda consectetur, nobis neque rem, incidunt quam tempore perferendis provident obcaecati sapiente, animi vel expedita omnis quae ipsa! Obcaecati eligendi sed odio labore vero reiciendis facere accusamus molestias eaque impedit, consequuntur quae fuga vitae fugit?</p>
+            </div>
+
+            
+            <div class="pt-5">
+              <p>类型:  <a href="#">食物</a>, <a href="#">旅游</a>  标签: <a href="#">#马尼拉</a>, <a href="#">#亚洲</a></p>
+            </div>
+
+
+            <div class="pt-5">
+              <h3 class="mb-5">评论</h3>
+              <ul class="comment-list">
+                <li class="comment">
+                  <div class="vcard">
+                    <img src="images/person_6.jpg" alt="Image placeholder">
+                  </div>
+                  <div class="comment-body">
+                    <h3>Ben Ben</h3>
+                    <div class="meta">3月19日, 2019  14:21</div>
+                    <p>在WUMINGHOTEL真是享受，服务周到！</p>
+                    <p><a href="#" class="reply">回复</a></p>
+                  </div>
+                </li>
+
+                <li class="comment">
+                  <div class="vcard">
+                    <img src="images/person_1.jpg" alt="Image placeholder">
+                  </div>
+                  <div class="comment-body">
+                    <h3>wukong</h3>
+                    <div class="meta">4月8日, 2019  8:20</div>
+                    <p>喜欢这里的环境，出门旅行下次还会继续预定这个酒店。</p>
+                    <p><a href="#" class="reply">回复</a></p>
+                  </div>
+
+                 
+                 <li class="comment">
+                  <div class="vcard">
+                    <img src="images/person_3.jpg" alt="Image placeholder">
+                  </div>
+                  <div class="comment-body">
+                    <h3>shuoshuo</h3>
+                    <div class="meta">4月8日, 2019  8:20</div>
+                    <p>环境挺好，餐厅口味可以再增加一些其它国家的菜肴，会更喜欢。</p>
+                    <p><a href="#" class="reply">回复</a></p>
+                  </div>
+                     
+                               
+              <!-- END comment-list -->
+              
+              <div class="comment-form-wrap pt-5">
+                <h3 class="mb-5">给我们提建议</h3>
+                <form action="#" class="p-5 bg-light">
+                  <div class="form-group">
+                    <label for="name">姓名 *</label>
+                    <input type="text" class="form-control" id="name">
+                  </div>
+                  <div class="form-group">
+                    <label for="email">Email *</label>
+                    <input type="email" class="form-control" id="email">
+                  </div>
+                  <div class="form-group">
+                    <label for="website">微博</label>
+                    <input type="url" class="form-control" id="website">
+                  </div>
+
+                  <div class="form-group">
+                    <label for="message">联系电话 </label>
+                    <textarea name="" id="message" cols="30" rows="10" class="form-control"></textarea>
+                  </div>
+                  <div class="form-group">
+                    <input type="submit" value="提交建议" class="btn btn-primary">
+                  </div>
+
+                </form>
+              </div>
+            </div>
+
+          </div>
+
+          <!-- END main-content -->
+
+          <div class="col-md-12 col-lg-4 sidebar">
+            <div class="sidebar-box search-form-wrap">
+              <form action="#" class="search-form">
+                <div class="form-group">
+                  <span class="icon fa fa-search"></span>
+                  <input type="text" class="form-control" id="s" placeholder="更多搜索...">
+                </div>
+              </form>
+            </div>
+            <!-- END sidebar-box -->
+            
+            <div class="sidebar-box">
+              <h3 class="heading">热门话题</h3>
+              <div class="post-entry-sidebar">
+                <ul>
+                  <li>
+                    <a href="">
+                      <img src="images/355-shangri-la-bangkok-d.jpg" alt="Image placeholder" class="mr-4">
+                      <div class="text">
+                        <h4>WUMINGHOTEL贵宾金环会即将召开</h4>
+                        <div class="post-meta">
+                          <span class="mr-2">3月10日, 2019 </span> &bullet;
+                          <span class="ml-2"><span class="fa fa-comments"></span>16</span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="">
+                      <img src="images/f_img_1.png" alt="Image placeholder" class="mr-4">
+                      <div class="text">
+                        <h4>WUMINGHOTEL品牌打造路程</h4>
+                        <div class="post-meta">
+                          <span class="mr-2">3月12日, 2019 </span> &bullet;
+                          <span class="ml-2"><span class="fa fa-comments"></span> 20</span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                  <li>
+                    <a href="">
+                      <img src="images/QQ图片20190417144851.jpg" alt="Image placeholder" class="mr-4">
+                      <div class="text">
+                        <h4>WUMINGHOTEL创始人的故事——几个有趣的灵魂</h4>
+                        <div class="post-meta">
+                          <span class="mr-2">3月14日, 2019 </span> &bullet;
+                          <span class="ml-2"><span class="fa fa-comments"></span> 200</span>
+                        </div>
+                      </div>
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <!-- END sidebar-box -->
+
+            <div class="sidebar-box">
+              <h3 class="heading">其它</h3>
+              <ul class="categories">
+                <li><a href="#">健身课程 <span>(12)</span></a></li>
+                <li><a href="#">CHI——水疗 <span>(22)</span></a></li>
+                <li><a href="#">新闻 <span>(63)</span></a></li>
+                <li><a href="#">酒店设计 <span>(66)</span></a></li>
+                <li><a href="#">提出您的建议 <span>(27)</span></a></li>
+              </ul>
+            </div>
+            <!-- END sidebar-box -->
+
+            <div class="sidebar-box">
+              <h3 class="heading">标签</h3>
+              <ul class="tags">
+                <li><a href="#">旅游</a></li>
+                <li><a href="#">探险</a></li>
+                <li><a href="#">食物</a></li>
+                <li><a href="#">生活</a></li>
+                <li><a href="#">商务</a></li>
+                <li><a href="#">自由</a></li>
+                <li><a href="#">学习</a></li>
+                <li><a href="#">会议</a></li>
+                <li><a href="#">别墅</a></li>
+               <li><a href="#">精读外刊</a></li>
+               <li><a href="#">其它读物</a></li>
+                            </ul>
+            </div>
+          </div>
+          <!-- END sidebar -->
+
+        </div>
+      </div>
+    </section>
+   
+   
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row mb-5">
+           <div class="col-md-4">
+            <h3>联系方式</h3>
+             <p>电话联系.</p>
+            <p class="lead"><a href="rel：//">13534603666</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>关注我们</h3>
+            <p>可关注下列社交软件</p>
+            <p>
+              <a href="#" class="pl-0 p-3"><span class="fa fa-facebook"></span></a>
+              <a href="#" class="p-3"><span class="fa fa-twitter"></span></a>
+              <a href="#" class="p-3"><span class="fa fa-instagram"></span></a>
+              <a href="#" class="p-3"><span class="fa fa-vimeo"></span></a>
+              <a href="#" class="p-3"><span class="fa fa-youtube-play"></span></a>
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h3>投诉建议</h3>
+            <p>邮件联系.</p>
+            <p class="lead"><a href="email">Guangzhouwumingbar@163.com</a></p>
+            <form action="#" class="subscribe">
+              <div class="form-group">
+                <button type="submit"><span class="ion-ios-arrow-thin-right"></span></button>
+                <input type="email" class="form-control" placeholder="Enter email">
+              </div>
+				</from>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-md-7 text-center">
+            &copy; 
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | by Guangzhou Wuming Bar </a>
+
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!-- END footer -->
+    
+    <!-- loader -->
+    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#f4b214"/></svg></div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/jquery-migrate-3.0.0.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/magnific-popup-options.js"></script>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>
