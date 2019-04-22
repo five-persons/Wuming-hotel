@@ -1,0 +1,306 @@
+﻿<!doctype html>
+<html lang="en">
+  <head>
+    <title>Wuming a Hotel Template</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+   
+
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+ <link rel="stylesheet" href="fonts/ionicons/css/ionicons.min.css">
+    <link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
+   
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <!-- Theme Style -->
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    
+    <header role="banner">
+     
+      <nav class="navbar navbar-expand-md navbar-dark bg-light">
+        <div class="container">
+          <a class="navbar-brand" href="index.html">WumingHotel</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample05" aria-controls="navbarsExample05" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+
+          <div class="collapse navbar-collapse navbar-light" id="navbarsExample05">
+            <ul class="navbar-nav ml-auto pl-lg-5 pl-0">
+              <li class="nav-item">
+                <a class="nav-link active" href="index.html">主页</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="房间.html" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">房间</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown04">
+                  <a class="dropdown-item" href="房间.html">房间介绍</a>
+                  <a class="dropdown-item" href="房间.html">总统套房</a>
+                  <a class="dropdown-item" href="房间.html">单人房</a>
+                  <a class="dropdown-item" href="房间.html">双人房</a>
+                </div>
+
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="展示.html">展示</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="关于.html">关于</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="联系我们.html">联系我们</a>
+              </li>
+               <li class="nav-item ">
+                <a class="nav-link" href="现在预订.html"><span>现在预订</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="F:\Learning\大三\大三下\网络数据库开发\大作业\酒店管理系统\后台\登录.html">管理登录</a>
+				</li>
+            </ul>
+            
+          </div>
+        </div>
+      </nav>
+    </header>
+    <!-- END header -->
+
+    <section class="site-hero overlay" data-stellar-background-ratio="0.5" style="background-image: url(images/big_image_1.jpg);">
+      <div class="container">
+        <div class="row align-items-center site-hero-inner justify-content-center">
+          <div class="col-md-12 text-center">
+
+            <div class="mb-5 element-animate">
+              <h1>个性体验</h1>
+              <p>发现只属于你的豪华。</p>
+              <p><a href="现在预订.html" class="btn btn-primary">现在预订</a></p>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- END section -->
+    
+    <section class="site-section">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col-md-4">
+            <div class="heading-wrap text-center element-animate">
+              <h4 class="sub-heading">迷人风光，完善设施，卓越服务，非凡体验 </h4>
+              <blockquote>
+                <h2 class="heading">让活动和会议 创造更多价值</h2>
+              </blockquote>
+              <p class="mb-5">无论是悠然假日，还是商务出行，我们将以缤纷优惠与旅行礼遇，为您打造完美入住体验!</p>
+              <p><a href="#" class="btn btn-primary btn-sm">更多关于我们</a></p>
+            </div>
+          </div>
+          <div class="col-md-1"></div>
+          <div class="col-md-7">
+            <img src="images/img_0.jpg" alt="Image placeholder" class="img-md-fluid">
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- END section -->
+
+    <section class="site-section bg-light">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-12 heading-wrap text-center">
+            <h4 class="sub-heading">迷人风光，完善设施，卓越服务，非凡体验</h4>
+              <h2 class="heading">我们的品牌</h2>
+          </div>
+        </div>
+        <div class="row ">
+          <div class="col-md-7">
+            <div class="media d-block room mb-0">
+              <figure>
+                <img src="images/img_10.jpg" alt="Generic placeholder image" class="img-fluid">
+                <div class="overlap-text">
+                  <span>
+                    特色房间 
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                  </span>
+                </div>
+              </figure>
+              <div class="media-body">
+                <h3 class="mt-0"><a href="#">总统套房</a></h3>
+                <ul class="room-specs">
+                  <li><span class="ion-ios-people-outline"></span> 3-4人入住</li>
+                  <li><span class="ion-ios-crop"></span> 296平方米</li>
+                </ul>
+                <p>豪华的套房配备独立的起居室、主卧室、主卫生间和宽敞的用餐区。起居室配备55英寸液晶电视和独立书房。相邻的客房可与套房相连，组成带有两间卧室的套房。 </p>
+                <p><a href="#" class="btn btn-primary btn-sm">现在预订 ¥8888</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-5 room-thumbnail-absolute">
+            <a href="#" class="media d-block room bg first-room" style="background-image: url(images/img——chi.jpg); ">
+              <!-- <figure> -->
+                <div class="overlap-text">
+                  <span>
+                    CHI水疗
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                  </span>
+                  <span class="pricing-from">
+                    预定¥588
+                  </span>
+                </div>
+              <!-- </figure> -->
+            </a>
+
+            <a href="#" class="media d-block room bg second-room" style="background-image: url(images/img_sport.jpg); ">
+              <!-- <figure> -->
+                <div class="overlap-text">
+                  <span>
+                    健体中心 
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                    <span class="ion-ios-star"></span>
+                  </span>
+                  <span class="pricing-from">
+                    预定¥988
+                  </span>
+                </div>
+              <!-- </figure> -->
+            </a>
+            
+          </div>
+        </div>
+      </div>
+    </section>
+
+   
+    
+    <section class="section-cover" data-stellar-background-ratio="0.5" style="background-image: url(images/img_5.jpg);">
+      <div class="container">
+        <div class="row justify-content-center align-items-center intro">
+          <div class="col-md-9 text-center element-animate">
+            <h2>豪华双人房</h2>
+            <p class="lead mb-5">豪华客房设有开阔的落地窗，让您独享松花江美景与城市景观。房间设置独立的休息区、休闲区及工作区，配备大尺寸羽绒被及精美设施，是您探索这座都市的完美家园。</p>
+            <div class="btn-play-wrap"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- END section -->
+    
+    <section class="site-section bg-light">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-12 heading-wrap text-center">
+            <h4 class="sub-heading">关于我们</h4>
+              <h2 class="heading">最新消息</h2>
+          </div>
+        </div>
+        <div class="row ">
+          <div class="col-md-4">
+            <div class="post-entry">
+              <img src="images/img_3.jpg" alt="Image placeholder" class="img-fluid">
+              <div class="body-text">
+                <div class="category">房间</div>
+                <h3 class="mb-3"><a href="#">各式房间</a></h3>
+                <p class="mb-4">拥有528间装修典雅华丽的客房和套房，为宾客提供豪华舒适的住宿空间。所有客房和套房均采用现代中式设计，并可凭窗远眺城市或园林美景。酒店新阁特设142间50平方米以上，宽敞舒适、豪华典雅的客房和套房。所有房间均配有落地窗、独立步入式衣橱、宽敞开阳的休息区以及多台液晶电视。</p>
+                <p><a href="#" class="btn btn-primary btn-outline-primary btn-sm">了解更多</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="post-entry">
+              <img src="images/img_6.jpg" alt="Image placeholder" class="img-fluid">
+              <div class="body-text">
+                <div class="category">周围</div>
+                <h3 class="mb-3"><a href="#">环境特色</a></h3>
+                <p class="mb-4">开展一天旅程之前，先到酒店办理入住手续。在通往房间的过程中，您一定瞬间就被大理石铺设的大堂深深吸引。新阁房间的大幅落地窗给予您全方位观赏全城的体验。马上您就注意到室内环境由精致的装饰艺术品点缀，充满中式的典雅意境。舒适奢华的套房充分满足您的感官享受，尤其是客厅内风格独具的壁炉散发着一份格外温馨的气息。 </p>
+                <p><a href="#" class="btn btn-primary btn-outline-primary btn-sm">了解更多</a></p>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="post-entry">
+              <img src="images/img_5.jpg" alt="Image placeholder" class="img-fluid">
+              <div class="body-text">
+                <div class="category">服务</div>
+                <h3 class="mb-3"><a href="#">特色服务</a></h3>
+                <p class="mb-4">泳池别墅偎依着一片茂密的热带雨林，屋前是触手可及的海滨，更可观赏温柔的海浪翻滚的迷人景色。奢华的泳池别墅设有私家泳池，景观露台以及露天淋浴。私人无边际泳池。私人岛屿管家。露天阳台。精致的浴室配备椭圆形浴缸、室内和露天淋浴、双人洗脸台。24小时别墅内用餐。</p>
+                <p><a href="#" class="btn btn-primary btn-outline-primary btn-sm">了解更多</a></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- END section -->
+   
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-4">
+            <h3>联系方式</h3>
+             <p>电话联系.</p>
+            <p class="lead"><a href="rel：//">13534603666</a></p>
+          </div>
+          <div class="col-md-4">
+            <h3>关注我们</h3>
+            <p>可关注下列社交软件</p>
+            <p>
+              <a href="#" class="pl-0 p-3"><span class="fa fa-facebook"></span></a>
+              <a href="#" class="p-3"><span class="fa fa-twitter"></span></a>
+              <a href="#" class="p-3"><span class="fa fa-instagram"></span></a>
+              <a href="#" class="p-3"><span class="fa fa-vimeo"></span></a>
+              <a href="#" class="p-3"><span class="fa fa-youtube-play"></span></a>
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h3>投诉建议</h3>
+            <p>邮件联系.</p>
+            <p class="lead"><a href="email">Guangzhouwumingbar@163.com</a></p>
+            <form action="#" class="subscribe">
+              <div class="form-group">
+                <button type="submit"><span class="ion-ios-arrow-thin-right"></span></button>
+                <input type="email" class="form-control" placeholder="Enter email">
+              </div>
+              
+            </form>
+          </div>
+        </div>
+        <div class="row justify-content-center"> <div class="col-md-7 text-center">
+            &copy; 
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | by Guangzhou Wuming Bar  </a>
+
+          </div>
+          </div>
+      </div>
+    </footer>
+    <!-- END footer -->
+    
+    <!-- loader -->
+    <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#f4b214"/></svg></div>
+
+    <script src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/jquery-migrate-3.0.0.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/magnific-popup-options.js"></script>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>
